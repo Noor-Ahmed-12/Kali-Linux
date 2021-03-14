@@ -1,2 +1,2 @@
-# Kali-Linux
-in this repo you will get some tools and basic commands file
+# Kali-Linux-tools
+in this repo you will get some bash and python scripting tools 
